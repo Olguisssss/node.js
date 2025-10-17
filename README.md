@@ -1,7 +1,7 @@
 https://ejecutortecnico.github.io/pri/mision3/clase1.html
 Crear un proyecto con Vite
 software:  nodejs,  npm
-desde cmd: create vite@latest proyecto-react -- --template react
+desde cmd(windows + R): create vite@latest proyecto-react -- --template react
 abrir en visual studio la carpeta que se creó del proyecto react
 desde el terminal de vscode instalar libreria:   npm install axios
 correr proyecto :   npm run dev
